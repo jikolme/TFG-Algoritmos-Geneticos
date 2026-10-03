@@ -1,1 +1,2 @@
 Este es un archivo de prueba para comprobar la sincronización con el NAS.
+Cambiado en Git
