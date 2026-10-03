@@ -1,0 +1,29 @@
+# Carpetas pesadas que irán al NAS pero no a GitHub
+LIBROS/
+
+# Archivos de Antigravity o sistema
+.agents/
+.gemini/
+.antigravity/
+Thumbs.db
+.DS_Store
+
+# Archivos temporales de LaTeX (Plantilla PFG)
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Entornos virtuales de Python (para cuando programemos el algoritmo)
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Miscelánea
+test.txt
