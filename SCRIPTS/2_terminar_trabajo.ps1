@@ -5,7 +5,7 @@ Solo copia archivos nuevos o versiones más recientes.
 #>
 
 $origen = "C:\Antigravity_Projects\TFG"
-$destino = "\\GEN7NAS\Disco 1\TFG\UNED"
+$destino = "\\GEN7NAS\Disco 1\TFG"
 
 Write-Host "Iniciando subida de cambios al NAS..." -ForegroundColor Cyan
 # /E: Copia subdirectorios

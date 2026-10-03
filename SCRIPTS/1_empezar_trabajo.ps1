@@ -4,7 +4,7 @@ Sincroniza los archivos desde el NAS hacia el entorno local.
 Solo copia archivos nuevos o versiones más recientes.
 #>
 
-$origen = "\\GEN7NAS\Disco 1\TFG\UNED"
+$origen = "\\GEN7NAS\Disco 1\TFG"
 $destino = "C:\Antigravity_Projects\TFG"
 
 Write-Host "Iniciando descarga desde el NAS..." -ForegroundColor Cyan
