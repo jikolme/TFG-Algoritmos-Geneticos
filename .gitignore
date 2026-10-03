@@ -1,4 +1,4 @@
-# Carpetas pesadas que irán al NAS pero no a GitHub
+﻿# Carpetas pesadas que iran al NAS pero no a GitHub
 LIBROS/
 
 # Archivos de Antigravity o sistema
@@ -19,11 +19,11 @@ Thumbs.db
 *.fdb_latexmk
 *.synctex.gz
 
-# Entornos virtuales de Python (para cuando programemos el algoritmo)
+# Entornos virtuales de Python
 venv/
 env/
 __pycache__/
 *.pyc
 
-# Miscelánea
-test.txt
+# Mas carpetas con PDFs
+BIBLIOGRAFIA/
